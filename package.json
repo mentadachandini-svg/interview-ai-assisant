@@ -1,0 +1,25 @@
+{
+  "name": "interview-ai-agent",
+  "version": "1.0.0",
+  "description": "Interview AI Assistant - Practice. Perform. Improve.",
+  "scripts": {
+    "start": "concurrently \"npm run server\" \"npm run client\"",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "install:all": "npm install && cd server && npm install && cd ../client && npm install --legacy-peer-deps"
+  },
+  "dependencies": {
+    "concurrently": "^9.1.2"
+  },
+  "keywords": [
+    "mock-interview",
+    "ai-interview",
+    "career-prep",
+    "mern-stack",
+    "gemini"
+  ],
+  "author": "",
+  "license": "MIT"
+}

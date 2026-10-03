@@ -1,0 +1,563 @@
+[
+  {
+    "_id": "int_1790759809189_5kcvj",
+    "userId": "user_1790759795661_mpusg",
+    "jobRole": "Python Developer",
+    "experienceLevel": "Beginner",
+    "interviewType": "Technical",
+    "technicalTopic": "",
+    "questionCount": 5,
+    "answeredCount": 5,
+    "skippedCount": 0,
+    "overallScore": 8.2,
+    "criterionScores": {
+      "correctness": 8.5,
+      "relevance": 8.5,
+      "completeness": 8,
+      "clarity": 8
+    },
+    "duration": 360,
+    "report": {
+      "strengths": [
+        "Clear explanation of mutable vs immutable types."
+      ],
+      "areasToImprove": [
+        "Mention reference counting implications."
+      ],
+      "recommendations": [
+        {
+          "topic": "Python OOP",
+          "action": "Practice inheritance and polymorphism with code samples."
+        }
+      ]
+    },
+    "questions": [
+      {
+        "question": "Explain the difference between mutable and immutable types in Python with examples.",
+        "category": "Core Python",
+        "difficulty": "Beginner",
+        "userAnswer": "Good answer on mutability",
+        "skipped": false,
+        "score": 8.5,
+        "correctness": 8.5,
+        "relevance": 9,
+        "completeness": 8,
+        "clarity": 8.5,
+        "feedback": "Detailed and clear.",
+        "strengths": [
+          "Precise vocabulary"
+        ],
+        "missingPoints": [
+          "None"
+        ],
+        "improvedAnswer": "Exemplary answer"
+      }
+    ],
+    "createdAt": "2026-09-30T09:16:49.189Z"
+  },
+  {
+    "_id": "int_1790760643065_hbvvc",
+    "userId": "user_1790760362642_mq7y1",
+    "jobRole": "Java Developer",
+    "experienceLevel": "Beginner",
+    "interviewType": "Technical",
+    "technicalTopic": "",
+    "questionCount": 5,
+    "answeredCount": 5,
+    "skippedCount": 0,
+    "overallScore": 4.8,
+    "criterionScores": {
+      "correctness": 4.6,
+      "relevance": 5,
+      "completeness": 4.2,
+      "clarity": 5.8
+    },
+    "duration": 255,
+    "report": {
+      "strengths": [
+        "Maintained an honest attempt at approaching the Core Java / OOP question.",
+        "Maintained an honest attempt at approaching the Core Java question.",
+        "Addressed core terminology and concepts related to Core Java.",
+        "Provided substantive depth and context in the explanation.",
+        "Well-structured thoughts with clear logical flow."
+      ],
+      "areasToImprove": [
+        "Core Java / OOP: Could include a concrete code snippet or real-world production scenario.",
+        "Core Java / OOP: Did not elaborate thoroughly on: four, core.",
+        "Core Java: Could include a concrete code snippet or real-world production scenario.",
+        "Core Java: Did not elaborate thoroughly on: abstract, class.",
+        "JVM Internals: Could include a concrete code snippet or real-world production scenario."
+      ],
+      "recommendations": [
+        {
+          "topic": "Core Java / OOP Deep Dive",
+          "action": "Revise fundamental concepts in Core Java / OOP, implement 3 code exercises from documentation, and practice explaining edge cases aloud.",
+          "resources": "Official Java Developer documentation and practice coding prompts"
+        },
+        {
+          "topic": "Core Java Deep Dive",
+          "action": "Revise fundamental concepts in Core Java, implement 3 code exercises from documentation, and practice explaining edge cases aloud.",
+          "resources": "Official Java Developer documentation and practice coding prompts"
+        },
+        {
+          "topic": "JVM Internals Deep Dive",
+          "action": "Revise fundamental concepts in JVM Internals, implement 3 code exercises from documentation, and practice explaining edge cases aloud.",
+          "resources": "Official Java Developer documentation and practice coding prompts"
+        },
+        {
+          "topic": "Concurrent Programming & Race Conditions",
+          "action": "Write code samples demonstrating thread pools, locks, semaphores, and race condition prevention.",
+          "resources": "Java Concurrency in Practice / Python asyncio internals"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "questionId": "q_1790760386986_1",
+        "question": "Explain the four core principles of Object-Oriented Programming (OOP) and how Java implements them.",
+        "category": "Core Java / OOP",
+        "difficulty": "Beginner",
+        "userAnswer": "inheritance,abstraction,polymorphism,encapsulation",
+        "skipped": false,
+        "score": 3.9,
+        "correctness": 4,
+        "relevance": 4,
+        "completeness": 3,
+        "clarity": 5,
+        "feedback": "Your answer touches upon the topic, but lacks technical depth and specific mechanics. Review the core definitions and prepare a structured explanation with examples before real interviews.",
+        "strengths": [
+          "Maintained an honest attempt at approaching the Core Java / OOP question."
+        ],
+        "missingPoints": [
+          "Could include a concrete code snippet or real-world production scenario.",
+          "Did not elaborate thoroughly on: four, core."
+        ],
+        "improvedAnswer": "In a production Java Developer environment, addressing \"Explain the four core principles of Object-Oriented Programming (OOP) and how Java implements them.\" requires understanding both the conceptual principles and operational trade-offs:\n\n1. Core Principle: Clearly state the primary mechanism and why it exists in the language/framework ecosystem.\n2. Practical Example: For instance, in a real-world scenario, you configure or execute this to ensure high availability, thread safety, or resource efficiency.\n3. Trade-offs & Edge Cases: Always highlight potential pitfalls—such as memory overhead, concurrency locks, or network latency—and how modern architectures mitigate them (e.g., using caching, connection pooling, or defensive error handling)."
+      },
+      {
+        "questionId": "q_1790760386987_2",
+        "question": "What is the difference between an Abstract Class and an Interface in Java 8+ (including default and static methods)?",
+        "category": "Core Java",
+        "difficulty": "Beginner",
+        "userAnswer": "iqwj2tr3e2 e3pk5[5kty5 kty",
+        "skipped": false,
+        "score": 3.9,
+        "correctness": 4,
+        "relevance": 4,
+        "completeness": 3,
+        "clarity": 5,
+        "feedback": "Your answer touches upon the topic, but lacks technical depth and specific mechanics. Review the core definitions and prepare a structured explanation with examples before real interviews.",
+        "strengths": [
+          "Maintained an honest attempt at approaching the Core Java question."
+        ],
+        "missingPoints": [
+          "Could include a concrete code snippet or real-world production scenario.",
+          "Did not elaborate thoroughly on: abstract, class."
+        ],
+        "improvedAnswer": "In a production Java Developer environment, addressing \"What is the difference between an Abstract Class and an Interface in Java 8+ (including default and static methods)?\" requires understanding both the conceptual principles and operational trade-offs:\n\n1. Core Principle: Clearly state the primary mechanism and why it exists in the language/framework ecosystem.\n2. Practical Example: For instance, in a real-world scenario, you configure or execute this to ensure high availability, thread safety, or resource efficiency.\n3. Trade-offs & Edge Cases: Always highlight potential pitfalls—such as memory overhead, concurrency locks, or network latency—and how modern architectures mitigate them (e.g., using caching, connection pooling, or defensive error handling)."
+      },
+      {
+        "questionId": "q_1790760386987_3",
+        "question": "What is the contract between equals() and hashCode() in Java, and what happens if it is violated?",
+        "category": "Core Java",
+        "difficulty": "Beginner",
+        "userAnswer": "📜 The Contract\nConsistency\n\nIf two objects are equal according to equals(), they must return the same hashCode().\n\nIf two objects are unequal, they may still return the same hashCode() (hash collisions are allowed, but should be minimized).\n\nImplications\n\nEqual objects → same hash bucket in hash-based collections.\n\nUnequal objects → ideally different hash buckets for efficiency.\n\n⚠️ What Happens If Violated?\nCase 1: equals() says two objects are equal, but hashCode() differs\n\nCollections like HashSet or HashMap may place them in different buckets.\n\nResult: Duplicate entries, inability to retrieve stored values, or unexpected behavior.\n\nCase 2: hashCode() is consistent but equals() is broken\n\nObjects may be treated as equal when they shouldn’t be, leading to overwriting or data loss in maps.\n\n🔍 Example\njava\nclass Person {\n    String name;\n\n    @Override\n    public boolean equals(Object o) {\n        if (this == o) return true;\n        if (!(o instanceof Person)) return false;\n        Person p = (Person) o;\n        return name.equals(p.name);\n    }\n\n    @Override\n    public int hashCode() {\n        return 42; // BAD: constant hashCode\n    }\n}\nHere, all Person objects have the same hash code.\n\nEven though equals() distinguishes them, they all end up in the same bucket, causing performance degradation (everything becomes a linked list lookup instead of O(1)).\n\n🚨 Key Takeaways\nAlways override both methods together.\n\nUse fields that define equality in both equals() and hashCode().\n\nViolating the contract leads to bugs in collections and performance issues.",
+        "skipped": false,
+        "score": 8.7,
+        "correctness": 8,
+        "relevance": 9,
+        "completeness": 9,
+        "clarity": 9,
+        "feedback": "Strong response that directly tackles the Core Java requirements. To stand out even further for a Beginner Java Developer position, articulate specific trade-offs and production architectural decisions.",
+        "strengths": [
+          "Addressed core terminology and concepts related to Core Java.",
+          "Provided substantive depth and context in the explanation.",
+          "Well-structured thoughts with clear logical flow."
+        ],
+        "missingPoints": [
+          "Elaborate on real-world edge cases and failure modes."
+        ],
+        "improvedAnswer": "In a production Java Developer environment, addressing \"What is the contract between equals() and hashCode() in Java, and what happens if it is violated?\" requires understanding both the conceptual principles and operational trade-offs:\n\n1. Core Principle: Clearly state the primary mechanism and why it exists in the language/framework ecosystem.\n2. Practical Example: For instance, in a real-world scenario, you configure or execute this to ensure high availability, thread safety, or resource efficiency.\n3. Trade-offs & Edge Cases: Always highlight potential pitfalls—such as memory overhead, concurrency locks, or network latency—and how modern architectures mitigate them (e.g., using caching, connection pooling, or defensive error handling)."
+      },
+      {
+        "questionId": "q_1790760386987_4",
+        "question": "How does the Java Virtual Machine (JVM) manage memory (Heap vs Stack, Metaspace, and Garbage Collection generations)?",
+        "category": "JVM Internals",
+        "difficulty": "Intermediate",
+        "userAnswer": "yg khgi \nkhgi\nhgikuhlo kjbhkhjdfggggfd",
+        "skipped": false,
+        "score": 3.9,
+        "correctness": 4,
+        "relevance": 4,
+        "completeness": 3,
+        "clarity": 5,
+        "feedback": "Your answer touches upon the topic, but lacks technical depth and specific mechanics. Review the core definitions and prepare a structured explanation with examples before real interviews.",
+        "strengths": [
+          "Maintained an honest attempt at approaching the JVM Internals question."
+        ],
+        "missingPoints": [
+          "Could include a concrete code snippet or real-world production scenario.",
+          "Did not elaborate thoroughly on: does, java.",
+          "Mention edge cases, trade-offs, or performance implications (e.g., time/space complexity or memory footprint)."
+        ],
+        "improvedAnswer": "In a production Java Developer environment, addressing \"How does the Java Virtual Machine (JVM) manage memory (Heap vs Stack, Metaspace, and Garbage Collection generations)?\" requires understanding both the conceptual principles and operational trade-offs:\n\n1. Core Principle: Clearly state the primary mechanism and why it exists in the language/framework ecosystem.\n2. Practical Example: For instance, in a real-world scenario, you configure or execute this to ensure high availability, thread safety, or resource efficiency.\n3. Trade-offs & Edge Cases: Always highlight potential pitfalls—such as memory overhead, concurrency locks, or network latency—and how modern architectures mitigate them (e.g., using caching, connection pooling, or defensive error handling)."
+      },
+      {
+        "questionId": "q_1790760386987_5",
+        "question": "How does Java handle thread synchronization, race conditions, and deadlocks? Explain volatile, synchronized, and ReentrantLock.",
+        "category": "Concurrency",
+        "difficulty": "Advanced",
+        "userAnswer": "i don't know",
+        "skipped": false,
+        "score": 3.6,
+        "correctness": 3,
+        "relevance": 4,
+        "completeness": 3,
+        "clarity": 5,
+        "feedback": "Your answer touches upon the topic, but lacks technical depth and specific mechanics. Review the core definitions and prepare a structured explanation with examples before real interviews.",
+        "strengths": [
+          "Maintained an honest attempt at approaching the Concurrency question."
+        ],
+        "missingPoints": [
+          "Could include a concrete code snippet or real-world production scenario.",
+          "Did not elaborate thoroughly on: does, java.",
+          "Mention edge cases, trade-offs, or performance implications (e.g., time/space complexity or memory footprint)."
+        ],
+        "improvedAnswer": "In a production Java Developer environment, addressing \"How does Java handle thread synchronization, race conditions, and deadlocks? Explain volatile, synchronized, and ReentrantLock.\" requires understanding both the conceptual principles and operational trade-offs:\n\n1. Core Principle: Clearly state the primary mechanism and why it exists in the language/framework ecosystem.\n2. Practical Example: For instance, in a real-world scenario, you configure or execute this to ensure high availability, thread safety, or resource efficiency.\n3. Trade-offs & Edge Cases: Always highlight potential pitfalls—such as memory overhead, concurrency locks, or network latency—and how modern architectures mitigate them (e.g., using caching, connection pooling, or defensive error handling)."
+      }
+    ],
+    "createdAt": "2026-09-30T09:30:43.065Z"
+  },
+  {
+    "_id": "int_1790778420587_u6s0d",
+    "userId": "user_1790778250486_kjk0o",
+    "jobRole": "Python Developer",
+    "experienceLevel": "Beginner",
+    "interviewType": "Technical",
+    "technicalTopic": "",
+    "questionCount": 5,
+    "answeredCount": 5,
+    "skippedCount": 0,
+    "overallScore": 4.8,
+    "criterionScores": {
+      "correctness": 4.6,
+      "relevance": 5,
+      "completeness": 4.2,
+      "clarity": 5.8
+    },
+    "duration": 141,
+    "report": {
+      "strengths": [
+        "Addressed core terminology and concepts related to Core Python.",
+        "Provided substantive depth and context in the explanation.",
+        "Well-structured thoughts with clear logical flow.",
+        "Maintained an honest attempt at approaching the OOP question.",
+        "Maintained an honest attempt at approaching the Performance question."
+      ],
+      "areasToImprove": [
+        "OOP: Could include a concrete code snippet or real-world production scenario.",
+        "OOP: Did not elaborate thoroughly on: class, inheritance.",
+        "Performance: Could include a concrete code snippet or real-world production scenario.",
+        "Performance: Did not elaborate thoroughly on: list, comprehensions.",
+        "Memory Management: Could include a concrete code snippet or real-world production scenario."
+      ],
+      "recommendations": [
+        {
+          "topic": "Object-Oriented Design & Principles",
+          "action": "Implement the SOLID principles with clean code examples, focusing on Interface Segregation and Dependency Inversion.",
+          "resources": "Design Patterns: Elements of Reusable Object-Oriented Software"
+        },
+        {
+          "topic": "Performance Deep Dive",
+          "action": "Revise fundamental concepts in Performance, implement 3 code exercises from documentation, and practice explaining edge cases aloud.",
+          "resources": "Official Python Developer documentation and practice coding prompts"
+        },
+        {
+          "topic": "Memory Management Deep Dive",
+          "action": "Revise fundamental concepts in Memory Management, implement 3 code exercises from documentation, and practice explaining edge cases aloud.",
+          "resources": "Official Python Developer documentation and practice coding prompts"
+        },
+        {
+          "topic": "Concurrent Programming & Race Conditions",
+          "action": "Write code samples demonstrating thread pools, locks, semaphores, and race condition prevention.",
+          "resources": "Java Concurrency in Practice / Python asyncio internals"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "questionId": "q_1790778279041_1",
+        "question": "Explain the difference between mutable and immutable types in Python with examples.",
+        "category": "Core Python",
+        "difficulty": "Beginner",
+        "userAnswer": "🔄 Mutable Types\nDefinition: Objects whose contents can be altered without changing their identity (memory address).\n\nExamples: list, dict, set, bytearray.\n\npython\n# Example with a list (mutable)\nnumbers = [1, 2, 3]\nprint(id(numbers))   # memory address before change\nnumbers.append(4)    # modifying the list\nprint(numbers)       # [1, 2, 3, 4]\nprint(id(numbers))   # same memory address\nHere, the list numbers is modified in place. The identity (id) remains the same.\n\n🔒 Immutable Types\nDefinition: Objects whose contents cannot be changed once created. Any \"modification\" creates a new object.\n\nExamples: int, float, str, tuple, frozenset, bytes.\n\npython\n# Example with a string (immutable)\nname = \"Chandini\"\nprint(id(name))      # memory address before change\nname = name + \" R\"   # concatenation creates a new string\nprint(name)          # \"Chandini R\"\nprint(id(name))      # different memory address\nEven though it looks like we \"modified\" the string, Python actually created a new string object and reassigned name to it.",
+        "skipped": false,
+        "score": 8.7,
+        "correctness": 8,
+        "relevance": 9,
+        "completeness": 9,
+        "clarity": 9,
+        "feedback": "Strong response that directly tackles the Core Python requirements. To stand out even further for a Beginner Python Developer position, articulate specific trade-offs and production architectural decisions.",
+        "strengths": [
+          "Addressed core terminology and concepts related to Core Python.",
+          "Provided substantive depth and context in the explanation.",
+          "Well-structured thoughts with clear logical flow."
+        ],
+        "missingPoints": [
+          "Elaborate on real-world edge cases and failure modes."
+        ],
+        "improvedAnswer": "In a production Python Developer environment, addressing \"Explain the difference between mutable and immutable types in Python with examples.\" requires understanding both the conceptual principles and operational trade-offs:\n\n1. Core Principle: Clearly state the primary mechanism and why it exists in the language/framework ecosystem.\n2. Practical Example: For instance, in a real-world scenario, you configure or execute this to ensure high availability, thread safety, or resource efficiency.\n3. Trade-offs & Edge Cases: Always highlight potential pitfalls—such as memory overhead, concurrency locks, or network latency—and how modern architectures mitigate them (e.g., using caching, connection pooling, or defensive error handling)."
+      },
+      {
+        "questionId": "q_1790778279041_2",
+        "question": "How do class inheritance, method overriding, and the Method Resolution Order (MRO/super()) work in Python?",
+        "category": "OOP",
+        "difficulty": "Beginner",
+        "userAnswer": "child,parent,object",
+        "skipped": false,
+        "score": 3.9,
+        "correctness": 4,
+        "relevance": 4,
+        "completeness": 3,
+        "clarity": 5,
+        "feedback": "Your answer touches upon the topic, but lacks technical depth and specific mechanics. Review the core definitions and prepare a structured explanation with examples before real interviews.",
+        "strengths": [
+          "Maintained an honest attempt at approaching the OOP question."
+        ],
+        "missingPoints": [
+          "Could include a concrete code snippet or real-world production scenario.",
+          "Did not elaborate thoroughly on: class, inheritance."
+        ],
+        "improvedAnswer": "In a production Python Developer environment, addressing \"How do class inheritance, method overriding, and the Method Resolution Order (MRO/super()) work in Python?\" requires understanding both the conceptual principles and operational trade-offs:\n\n1. Core Principle: Clearly state the primary mechanism and why it exists in the language/framework ecosystem.\n2. Practical Example: For instance, in a real-world scenario, you configure or execute this to ensure high availability, thread safety, or resource efficiency.\n3. Trade-offs & Edge Cases: Always highlight potential pitfalls—such as memory overhead, concurrency locks, or network latency—and how modern architectures mitigate them (e.g., using caching, connection pooling, or defensive error handling)."
+      },
+      {
+        "questionId": "q_1790778279041_3",
+        "question": "Compare list comprehensions, map/filter functions, and traditional loops in terms of readability and performance.",
+        "category": "Performance",
+        "difficulty": "Beginner",
+        "userAnswer": "re tyhl rtmg5w;o koyhko6 g;lkr5t;go54 mypo56 7kmupor rkenjtqi rrklmtpwrt",
+        "skipped": false,
+        "score": 3.9,
+        "correctness": 4,
+        "relevance": 4,
+        "completeness": 3,
+        "clarity": 5,
+        "feedback": "Your answer touches upon the topic, but lacks technical depth and specific mechanics. Review the core definitions and prepare a structured explanation with examples before real interviews.",
+        "strengths": [
+          "Maintained an honest attempt at approaching the Performance question."
+        ],
+        "missingPoints": [
+          "Could include a concrete code snippet or real-world production scenario.",
+          "Did not elaborate thoroughly on: list, comprehensions."
+        ],
+        "improvedAnswer": "In a production Python Developer environment, addressing \"Compare list comprehensions, map/filter functions, and traditional loops in terms of readability and performance.\" requires understanding both the conceptual principles and operational trade-offs:\n\n1. Core Principle: Clearly state the primary mechanism and why it exists in the language/framework ecosystem.\n2. Practical Example: For instance, in a real-world scenario, you configure or execute this to ensure high availability, thread safety, or resource efficiency.\n3. Trade-offs & Edge Cases: Always highlight potential pitfalls—such as memory overhead, concurrency locks, or network latency—and how modern architectures mitigate them (e.g., using caching, connection pooling, or defensive error handling)."
+      },
+      {
+        "questionId": "q_1790778279041_4",
+        "question": "How does Python's memory management and garbage collection work (reference counting vs cyclic GC)?",
+        "category": "Memory Management",
+        "difficulty": "Intermediate",
+        "userAnswer": "fjl rg tg  y6",
+        "skipped": false,
+        "score": 3.9,
+        "correctness": 4,
+        "relevance": 4,
+        "completeness": 3,
+        "clarity": 5,
+        "feedback": "Your answer touches upon the topic, but lacks technical depth and specific mechanics. Review the core definitions and prepare a structured explanation with examples before real interviews.",
+        "strengths": [
+          "Maintained an honest attempt at approaching the Memory Management question."
+        ],
+        "missingPoints": [
+          "Could include a concrete code snippet or real-world production scenario.",
+          "Did not elaborate thoroughly on: does, pythons.",
+          "Mention edge cases, trade-offs, or performance implications (e.g., time/space complexity or memory footprint)."
+        ],
+        "improvedAnswer": "In a production Python Developer environment, addressing \"How does Python's memory management and garbage collection work (reference counting vs cyclic GC)?\" requires understanding both the conceptual principles and operational trade-offs:\n\n1. Core Principle: Clearly state the primary mechanism and why it exists in the language/framework ecosystem.\n2. Practical Example: For instance, in a real-world scenario, you configure or execute this to ensure high availability, thread safety, or resource efficiency.\n3. Trade-offs & Edge Cases: Always highlight potential pitfalls—such as memory overhead, concurrency locks, or network latency—and how modern architectures mitigate them (e.g., using caching, connection pooling, or defensive error handling)."
+      },
+      {
+        "questionId": "q_1790778279041_5",
+        "question": "What is the Global Interpreter Lock (GIL) in CPython, and how does it impact multi-threaded CPU-bound vs I/O-bound applications?",
+        "category": "Concurrency",
+        "difficulty": "Advanced",
+        "userAnswer": "tnjwlt elkrgmt;",
+        "skipped": false,
+        "score": 3.6,
+        "correctness": 3,
+        "relevance": 4,
+        "completeness": 3,
+        "clarity": 5,
+        "feedback": "Your answer touches upon the topic, but lacks technical depth and specific mechanics. Review the core definitions and prepare a structured explanation with examples before real interviews.",
+        "strengths": [
+          "Maintained an honest attempt at approaching the Concurrency question."
+        ],
+        "missingPoints": [
+          "Could include a concrete code snippet or real-world production scenario.",
+          "Did not elaborate thoroughly on: global, interpreter.",
+          "Mention edge cases, trade-offs, or performance implications (e.g., time/space complexity or memory footprint)."
+        ],
+        "improvedAnswer": "In a production Python Developer environment, addressing \"What is the Global Interpreter Lock (GIL) in CPython, and how does it impact multi-threaded CPU-bound vs I/O-bound applications?\" requires understanding both the conceptual principles and operational trade-offs:\n\n1. Core Principle: Clearly state the primary mechanism and why it exists in the language/framework ecosystem.\n2. Practical Example: For instance, in a real-world scenario, you configure or execute this to ensure high availability, thread safety, or resource efficiency.\n3. Trade-offs & Edge Cases: Always highlight potential pitfalls—such as memory overhead, concurrency locks, or network latency—and how modern architectures mitigate them (e.g., using caching, connection pooling, or defensive error handling)."
+      }
+    ],
+    "createdAt": "2026-09-30T14:27:00.587Z"
+  },
+  {
+    "_id": "int_1790778521693_sscld",
+    "userId": "user_1790778250486_kjk0o",
+    "jobRole": "Full Stack Developer",
+    "experienceLevel": "Beginner",
+    "interviewType": "Technical",
+    "technicalTopic": "",
+    "questionCount": 5,
+    "answeredCount": 2,
+    "skippedCount": 3,
+    "overallScore": 1.6,
+    "criterionScores": {
+      "correctness": 4,
+      "relevance": 4,
+      "completeness": 3,
+      "clarity": 5
+    },
+    "duration": 34,
+    "report": {
+      "strengths": [
+        "Maintained an honest attempt at approaching the Frontend (React) question.",
+        "Maintained an honest attempt at approaching the Web Architecture question."
+      ],
+      "areasToImprove": [
+        "Frontend (React): Could include a concrete code snippet or real-world production scenario.",
+        "Frontend (React): Did not elaborate thoroughly on: does, reacts.",
+        "Web Architecture: Could include a concrete code snippet or real-world production scenario.",
+        "Web Architecture: Did not elaborate thoroughly on: differences, clientside.",
+        "Web Architecture: Mention edge cases, trade-offs, or performance implications (e.g., time/space complexity or memory footprint)."
+      ],
+      "recommendations": [
+        {
+          "topic": "Web Fundamentals Deep Dive",
+          "action": "Revise fundamental concepts in Web Fundamentals, implement 3 code exercises from documentation, and practice explaining edge cases aloud.",
+          "resources": "Official Full Stack Developer documentation and practice coding prompts"
+        },
+        {
+          "topic": "React Internals & State Architecture",
+          "action": "Practice profiling re-renders with React DevTools and optimize using useMemo, useCallback, and Zustand state slices.",
+          "resources": "React 18+ Official Documentation & Overreacted by Dan Abramov"
+        },
+        {
+          "topic": "Web Architecture Deep Dive",
+          "action": "Revise fundamental concepts in Web Architecture, implement 3 code exercises from documentation, and practice explaining edge cases aloud.",
+          "resources": "Official Full Stack Developer documentation and practice coding prompts"
+        },
+        {
+          "topic": "Web Security Deep Dive",
+          "action": "Revise fundamental concepts in Web Security, implement 3 code exercises from documentation, and practice explaining edge cases aloud.",
+          "resources": "Official Full Stack Developer documentation and practice coding prompts"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "questionId": "q_1790778487375_1",
+        "question": "Explain the end-to-end flow of what happens when a user enters a URL in a browser and presses Enter until the page renders.",
+        "category": "Web Fundamentals",
+        "difficulty": "Beginner",
+        "userAnswer": "(Skipped by user)",
+        "skipped": true,
+        "score": 0,
+        "correctness": 0,
+        "relevance": 0,
+        "completeness": 0,
+        "clarity": 0,
+        "feedback": "This question was skipped. Be sure to review the recommended sample answer and topic concepts.",
+        "strengths": [],
+        "missingPoints": [
+          "Question was skipped during the mock interview."
+        ],
+        "improvedAnswer": "To approach \"Explain the end-to-end flow of what happens when a user enters a URL in a browser and presses Enter until the page renders.\", clarify the core principles of Web Fundamentals, discuss standard architectural design practices, and review typical edge cases."
+      },
+      {
+        "questionId": "q_1790778487375_2",
+        "question": "How does React's Virtual DOM work, and how does React's reconciliation algorithm optimize DOM updates?",
+        "category": "Frontend (React)",
+        "difficulty": "Beginner",
+        "userAnswer": "gtrh",
+        "skipped": false,
+        "score": 3.9,
+        "correctness": 4,
+        "relevance": 4,
+        "completeness": 3,
+        "clarity": 5,
+        "feedback": "Your answer touches upon the topic, but lacks technical depth and specific mechanics. Review the core definitions and prepare a structured explanation with examples before real interviews.",
+        "strengths": [
+          "Maintained an honest attempt at approaching the Frontend (React) question."
+        ],
+        "missingPoints": [
+          "Could include a concrete code snippet or real-world production scenario.",
+          "Did not elaborate thoroughly on: does, reacts."
+        ],
+        "improvedAnswer": "In a production Full Stack Developer environment, addressing \"How does React's Virtual DOM work, and how does React's reconciliation algorithm optimize DOM updates?\" requires understanding both the conceptual principles and operational trade-offs:\n\n1. Core Principle: Clearly state the primary mechanism and why it exists in the language/framework ecosystem.\n2. Practical Example: For instance, in a real-world scenario, you configure or execute this to ensure high availability, thread safety, or resource efficiency.\n3. Trade-offs & Edge Cases: Always highlight potential pitfalls—such as memory overhead, concurrency locks, or network latency—and how modern architectures mitigate them (e.g., using caching, connection pooling, or defensive error handling)."
+      },
+      {
+        "questionId": "q_1790778487375_3",
+        "question": "Explain the differences between client-side rendering (CSR), server-side rendering (SSR), and static site generation (SSG).",
+        "category": "Web Architecture",
+        "difficulty": "Intermediate",
+        "userAnswer": "thgtrryyhytu",
+        "skipped": false,
+        "score": 3.9,
+        "correctness": 4,
+        "relevance": 4,
+        "completeness": 3,
+        "clarity": 5,
+        "feedback": "Your answer touches upon the topic, but lacks technical depth and specific mechanics. Review the core definitions and prepare a structured explanation with examples before real interviews.",
+        "strengths": [
+          "Maintained an honest attempt at approaching the Web Architecture question."
+        ],
+        "missingPoints": [
+          "Could include a concrete code snippet or real-world production scenario.",
+          "Did not elaborate thoroughly on: differences, clientside.",
+          "Mention edge cases, trade-offs, or performance implications (e.g., time/space complexity or memory footprint)."
+        ],
+        "improvedAnswer": "In a production Full Stack Developer environment, addressing \"Explain the differences between client-side rendering (CSR), server-side rendering (SSR), and static site generation (SSG).\" requires understanding both the conceptual principles and operational trade-offs:\n\n1. Core Principle: Clearly state the primary mechanism and why it exists in the language/framework ecosystem.\n2. Practical Example: For instance, in a real-world scenario, you configure or execute this to ensure high availability, thread safety, or resource efficiency.\n3. Trade-offs & Edge Cases: Always highlight potential pitfalls—such as memory overhead, concurrency locks, or network latency—and how modern architectures mitigate them (e.g., using caching, connection pooling, or defensive error handling)."
+      },
+      {
+        "questionId": "q_1790778487375_4",
+        "question": "Explain Cross-Origin Resource Sharing (CORS), CSRF, and XSS attacks and how to defend against each in a full-stack app.",
+        "category": "Web Security",
+        "difficulty": "Advanced",
+        "userAnswer": "(Skipped by user)",
+        "skipped": true,
+        "score": 0,
+        "correctness": 0,
+        "relevance": 0,
+        "completeness": 0,
+        "clarity": 0,
+        "feedback": "This question was skipped. Be sure to review the recommended sample answer and topic concepts.",
+        "strengths": [],
+        "missingPoints": [
+          "Question was skipped during the mock interview."
+        ],
+        "improvedAnswer": "To approach \"Explain Cross-Origin Resource Sharing (CORS), CSRF, and XSS attacks and how to defend against each in a full-stack app.\", clarify the core principles of Web Security, discuss standard architectural design practices, and review typical edge cases."
+      },
+      {
+        "questionId": "q_1790778487375_5",
+        "question": "How would you design and implement real-time communication (e.g., live notifications or chat) using WebSockets or SSE?",
+        "category": "Real-time Systems",
+        "difficulty": "Advanced",
+        "userAnswer": "(Skipped by user)",
+        "skipped": true,
+        "score": 0,
+        "correctness": 0,
+        "relevance": 0,
+        "completeness": 0,
+        "clarity": 0,
+        "feedback": "This question was skipped. Be sure to review the recommended sample answer and topic concepts.",
+        "strengths": [],
+        "missingPoints": [
+          "Question was skipped during the mock interview."
+        ],
+        "improvedAnswer": "To approach \"How would you design and implement real-time communication (e.g., live notifications or chat) using WebSockets or SSE?\", clarify the core principles of Real-time Systems, discuss standard architectural design practices, and review typical edge cases."
+      }
+    ],
+    "createdAt": "2026-09-30T14:28:41.693Z"
+  }
+]

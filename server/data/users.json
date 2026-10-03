@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "user_1790759795661_mpusg",
+    "name": "Alex Morgan",
+    "email": "alex@example.com",
+    "password": "$2a$10$4u7MTQU.RL3i.gZPDWKhsOa91Us76a/jITAjEHl/gsdRi3PgF.7Bi",
+    "preferredRole": "Full Stack Developer",
+    "experienceLevel": "Intermediate",
+    "createdAt": "2026-09-30T09:16:35.661Z"
+  },
+  {
+    "_id": "user_1790760362642_mq7y1",
+    "name": "m.chandini",
+    "email": "chandini.mentada@gmail.com",
+    "password": "$2a$10$1DYqYHJDNIt2QvICrWf5MOMnFQLkTZfoq/P53iOMTjadUwYf7yidu",
+    "preferredRole": "Python Developer",
+    "experienceLevel": "Beginner",
+    "createdAt": "2026-09-30T09:26:02.642Z"
+  },
+  {
+    "_id": "user_1790778250486_kjk0o",
+    "name": "mentada chandini",
+    "email": "mentadachandini@gmail.com",
+    "password": "$2a$10$x/ukzRizsBLoXhGo/xhZ/.aJGBi055AH2UWLZWikjv9Rni4c6wA4K",
+    "preferredRole": "Software Engineer",
+    "experienceLevel": "Beginner",
+    "createdAt": "2026-09-30T14:24:10.486Z"
+  }
+]
