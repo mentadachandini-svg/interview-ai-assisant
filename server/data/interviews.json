@@ -559,5 +559,205 @@
       }
     ],
     "createdAt": "2026-09-30T14:28:41.693Z"
+  },
+  {
+    "_id": "int_1791177258206_d2utb",
+    "userId": "user_1791177014798_2fbip",
+    "interviewId": "int_1791177258205_3f50a",
+    "role": "upsc",
+    "jobRole": "upsc",
+    "experienceLevel": "Beginner",
+    "interviewType": "Behavioral",
+    "technicalTopic": "",
+    "questionCount": 5,
+    "answeredCount": 5,
+    "skippedCount": 0,
+    "overallScore": 3.8,
+    "totalScore": 19,
+    "percentage": 38,
+    "feedback": "Significant knowledge gaps detected. Practice fundamental topics before interviewing.",
+    "criterionScores": {
+      "correctness": 4,
+      "relevance": 4,
+      "completeness": 3.6,
+      "clarity": 3.9
+    },
+    "duration": 166,
+    "report": {
+      "strengths": [
+        "Excellent alignment with administrative values (integrity, empathy, service).",
+        "Clearly articulates the motivation for nation-building and public welfare.",
+        "Well-structured, professional, and logically coherent.",
+        "Successfully bridges personal values with the core mandate of civil services.",
+        "Excellent grasp of stakeholder engagement through local influencers"
+      ],
+      "areasToImprove": [
+        "Resilience: A coherent technical response addressing the question was not submitted.",
+        "Ethics: A coherent technical response addressing the question was not submitted.",
+        "Leadership: A coherent technical response addressing the question was not submitted."
+      ],
+      "recommendations": [
+        {
+          "topic": "Resilience Deep Dive",
+          "action": "Revise fundamental concepts in Resilience, implement 3 code exercises from documentation, and practice explaining edge cases aloud.",
+          "resources": "Official upsc documentation and practice coding prompts"
+        },
+        {
+          "topic": "Ethics Deep Dive",
+          "action": "Revise fundamental concepts in Ethics, implement 3 code exercises from documentation, and practice explaining edge cases aloud.",
+          "resources": "Official upsc documentation and practice coding prompts"
+        },
+        {
+          "topic": "Leadership Deep Dive",
+          "action": "Revise fundamental concepts in Leadership, implement 3 code exercises from documentation, and practice explaining edge cases aloud.",
+          "resources": "Official upsc documentation and practice coding prompts"
+        }
+      ]
+    },
+    "questions": [
+      {
+        "questionId": "q_gemini_1791177091713_0",
+        "question": "Why do you want to join the Civil Services, and how does this align with your personal values?",
+        "category": "Motivation",
+        "difficulty": "Beginner",
+        "userAnswer": "Joining the Civil Services is often seen as more than just a career choice — it’s a commitment to public service and nation-building. A strong answer to this question should connect your motivations with your values, showing that your decision is not only practical but deeply personal. Here’s how you might frame it:\n\n✨ Why I want to join the Civil Services\n\nI aspire to contribute directly to society by addressing issues such as poverty, education, healthcare, and social justice.\n\nThe Civil Services provide a platform to influence policy and implement programs that can improve lives at scale.\n\nIt offers an opportunity to serve people beyond personal or professional gain, aligning with my desire to make a meaningful impact.\n\n🌱 Alignment with my personal values\n\nIntegrity: Upholding honesty and fairness in decision-making is central to my character, and the Civil Services demand this quality.\n\nService: I value contributing to the welfare of others, and this role allows me to dedicate myself to public good.\n\nEmpathy: Understanding diverse communities and working to uplift marginalized groups reflects my belief in equality and compassion.\n\nDiscipline & Responsibility: The structured yet challenging nature of the Civil Services resonates with my commitment to hard work and accountability.\n\nA polished way to conclude could be:\n\"For me, joining the Civil Services is not just about a prestigious role; it is about living my values of integrity, service, and empathy while contributing to the progress of my country.\"",
+        "candidateAnswer": "Joining the Civil Services is often seen as more than just a career choice — it’s a commitment to public service and nation-building. A strong answer to this question should connect your motivations with your values, showing that your decision is not only practical but deeply personal. Here’s how you might frame it:\n\n✨ Why I want to join the Civil Services\n\nI aspire to contribute directly to society by addressing issues such as poverty, education, healthcare, and social justice.\n\nThe Civil Services provide a platform to influence policy and implement programs that can improve lives at scale.\n\nIt offers an opportunity to serve people beyond personal or professional gain, aligning with my desire to make a meaningful impact.\n\n🌱 Alignment with my personal values\n\nIntegrity: Upholding honesty and fairness in decision-making is central to my character, and the Civil Services demand this quality.\n\nService: I value contributing to the welfare of others, and this role allows me to dedicate myself to public good.\n\nEmpathy: Understanding diverse communities and working to uplift marginalized groups reflects my belief in equality and compassion.\n\nDiscipline & Responsibility: The structured yet challenging nature of the Civil Services resonates with my commitment to hard work and accountability.\n\nA polished way to conclude could be:\n\"For me, joining the Civil Services is not just about a prestigious role; it is about living my values of integrity, service, and empathy while contributing to the progress of my country.\"",
+        "expectedAnswer": "I seek a career that offers a direct platform to contribute to public welfare and nation-building. My values of integrity, empathy, and social responsibility align with the mandate of the Civil Services to serve the marginalized and ensure efficient governance.",
+        "keyPoints": [
+          "Public service motivation",
+          "Alignment with administrative values",
+          "Long-term professional commitment"
+        ],
+        "skipped": false,
+        "score": 9.5,
+        "correctness": 10,
+        "relevance": 10,
+        "completeness": 9,
+        "clarity": 9.5,
+        "feedback": "The candidate has provided an outstanding, comprehensive breakdown of how to answer the question. The values identified are perfectly aligned with the civil services. To improve, ensure that when delivering this in an interview, you synthesize these points into a concise, narrative-driven response rather than a bulleted list, ensuring you emphasize your long-term commitment to the institution.",
+        "strengths": [
+          "Excellent alignment with administrative values (integrity, empathy, service).",
+          "Clearly articulates the motivation for nation-building and public welfare.",
+          "Well-structured, professional, and logically coherent.",
+          "Successfully bridges personal values with the core mandate of civil services."
+        ],
+        "missingPoints": [
+          "The answer is presented as a framework or guide rather than a personalized, concise interview response.",
+          "Could further emphasize long-term professional commitment to demonstrate resilience against the challenges of the services."
+        ],
+        "improvedAnswer": "I aspire to join the Civil Services because it offers a unique and direct platform to contribute to nation-building and public welfare. My motivation is rooted in a desire to address systemic challenges in sectors like education and social justice, where administrative action can create a measurable, large-scale impact. My personal values—specifically integrity, empathy, and a strong sense of social responsibility—are the driving forces behind this decision. I believe that effective governance requires not just professional competence, but an unwavering commitment to fairness and the upliftment of marginalized communities. For me, this is a long-term commitment to serve the public interest, and I view the Civil Services as the most profound way to align my professional life with my commitment to the progress of our country."
+      },
+      {
+        "questionId": "q_gemini_1791177091713_1",
+        "question": "How do you maintain your mental composure and focus during the long and demanding preparation process?",
+        "category": "Resilience",
+        "difficulty": "Beginner",
+        "userAnswer": "jkccvzndf;o jognodfkng",
+        "candidateAnswer": "jkccvzndf;o jognodfkng",
+        "expectedAnswer": "I manage the rigorous preparation by maintaining a balanced routine that includes physical exercise, mindfulness practices, and periodic breaks. I view the preparation as a marathon rather than a sprint, focusing on consistent progress rather than immediate results.",
+        "keyPoints": [
+          "Stress management",
+          "Time management and discipline",
+          "Emotional intelligence"
+        ],
+        "skipped": false,
+        "score": 0,
+        "correctness": 0,
+        "relevance": 0,
+        "completeness": 0,
+        "clarity": 0,
+        "feedback": "The submitted response contains random characters or incoherent text. In a technical interview, answers must directly explain technical mechanisms and reasoning.",
+        "strengths": [],
+        "missingPoints": [
+          "A coherent technical response addressing the question was not submitted."
+        ],
+        "improvedAnswer": "I manage the rigorous preparation by maintaining a balanced routine that includes physical exercise, mindfulness practices, and periodic breaks. I view the preparation as a marathon rather than a sprint, focusing on consistent progress rather than immediate results."
+      },
+      {
+        "questionId": "q_gemini_1791177091713_2",
+        "question": "If you are posted in a remote, underdeveloped district, how will you address the initial resistance from the local community toward new government initiatives?",
+        "category": "Situational",
+        "difficulty": "Intermediate",
+        "userAnswer": "When posted in a remote, underdeveloped district, initial resistance from the local community is natural — often rooted in mistrust, lack of awareness, or fear of change. The key is to approach the situation with sensitivity, patience, and inclusivity. Here’s how you could frame your response:\n\n🌍 Step 1: Build Trust\nSpend time with the community, listen to their concerns, and understand their cultural and social context.\n\nEngage local leaders, elders, and influencers who command respect — their endorsement can ease acceptance.\n\nDemonstrate transparency in communication to dispel doubts about government intentions.\n\n📢 Step 2: Awareness & Communication\nOrganize awareness campaigns using local languages and relatable examples.\n\nUse storytelling, folk media, or community meetings rather than only formal channels to explain benefits.\n\nHighlight success stories from similar districts to show tangible outcomes.\n\n🤝 Step 3: Participation & Ownership\nInvolve community members in planning and execution, so initiatives feel collaborative rather than imposed.\n\nCreate village-level committees or self-help groups to give people a sense of ownership.\n\nEncourage feedback loops — show that their voices shape the program.",
+        "candidateAnswer": "When posted in a remote, underdeveloped district, initial resistance from the local community is natural — often rooted in mistrust, lack of awareness, or fear of change. The key is to approach the situation with sensitivity, patience, and inclusivity. Here’s how you could frame your response:\n\n🌍 Step 1: Build Trust\nSpend time with the community, listen to their concerns, and understand their cultural and social context.\n\nEngage local leaders, elders, and influencers who command respect — their endorsement can ease acceptance.\n\nDemonstrate transparency in communication to dispel doubts about government intentions.\n\n📢 Step 2: Awareness & Communication\nOrganize awareness campaigns using local languages and relatable examples.\n\nUse storytelling, folk media, or community meetings rather than only formal channels to explain benefits.\n\nHighlight success stories from similar districts to show tangible outcomes.\n\n🤝 Step 3: Participation & Ownership\nInvolve community members in planning and execution, so initiatives feel collaborative rather than imposed.\n\nCreate village-level committees or self-help groups to give people a sense of ownership.\n\nEncourage feedback loops — show that their voices shape the program.",
+        "expectedAnswer": "I would prioritize building trust through direct dialogue and community engagement. By identifying local influencers and demonstrating the tangible benefits of the initiative through small-scale pilot projects, I would gradually overcome skepticism and ensure inclusive implementation.",
+        "keyPoints": [
+          "Stakeholder engagement",
+          "Conflict resolution",
+          "Bottom-up governance approach"
+        ],
+        "skipped": false,
+        "score": 9.5,
+        "correctness": 10,
+        "relevance": 10,
+        "completeness": 9,
+        "clarity": 10,
+        "feedback": "The candidate demonstrates a professional and empathetic approach suitable for an administrative role. The response covers the key concepts of stakeholder engagement and bottom-up governance effectively. The structure is clear and the tone is appropriate for an UPSC interview.",
+        "strengths": [
+          "Excellent grasp of stakeholder engagement through local influencers",
+          "Strong emphasis on participatory governance",
+          "Structured and logical approach to change management"
+        ],
+        "missingPoints": [
+          "Could have explicitly mentioned the use of pilot projects to demonstrate tangible benefits as a low-risk testing mechanism"
+        ],
+        "improvedAnswer": "To address initial resistance, I would adopt a three-pronged approach: First, I would focus on stakeholder engagement by identifying and consulting local influencers and elders to build trust. Second, I would implement a bottom-up governance approach, involving the community in the planning phase to ensure their concerns are addressed. Finally, to overcome skepticism, I would launch small-scale pilot projects to demonstrate tangible benefits, using this success as a foundation for broader, inclusive implementation across the district."
+      },
+      {
+        "questionId": "q_gemini_1791177091713_3",
+        "question": "How do you reconcile the need for strict adherence to rules and regulations with the necessity of being empathetic toward citizens in distress?",
+        "category": "Ethics",
+        "difficulty": "Intermediate",
+        "userAnswer": "bjkm hkb",
+        "candidateAnswer": "bjkm hkb",
+        "expectedAnswer": "Rules are the framework for fairness, but their interpretation should be guided by the spirit of the law, which is public welfare. While maintaining the rule of law is non-negotiable, I would utilize the discretionary powers provided by the system to provide relief and support to citizens in genuine humanitarian distress.",
+        "keyPoints": [
+          "Rule of law vs. humanitarian empathy",
+          "Discretionary powers",
+          "Ethical decision-making"
+        ],
+        "skipped": false,
+        "score": 0,
+        "correctness": 0,
+        "relevance": 0,
+        "completeness": 0,
+        "clarity": 0,
+        "feedback": "The submitted response contains random characters or incoherent text. In a technical interview, answers must directly explain technical mechanisms and reasoning.",
+        "strengths": [],
+        "missingPoints": [
+          "A coherent technical response addressing the question was not submitted."
+        ],
+        "improvedAnswer": "Rules are the framework for fairness, but their interpretation should be guided by the spirit of the law, which is public welfare. While maintaining the rule of law is non-negotiable, I would utilize the discretionary powers provided by the system to provide relief and support to citizens in genuine humanitarian distress."
+      },
+      {
+        "questionId": "q_gemini_1791177091713_4",
+        "question": "Public perception of the bureaucracy is often colored by allegations of inefficiency and red tape. How do you plan to change this narrative as an officer?",
+        "category": "Leadership",
+        "difficulty": "Advanced",
+        "userAnswer": "hb",
+        "candidateAnswer": "hb",
+        "expectedAnswer": "I would focus on 'service-oriented' administration by simplifying bureaucratic processes, increasing transparency through digital tools, and fostering a culture of accountability within my team. By ensuring that the last person in the queue receives services without undue hardship, I would aim to restore public faith in the institutional integrity of the office.",
+        "keyPoints": [
+          "Administrative reforms",
+          "Transparency and accountability",
+          "Citizen-centric administration"
+        ],
+        "skipped": false,
+        "score": 0,
+        "correctness": 0,
+        "relevance": 0,
+        "completeness": 0,
+        "clarity": 0,
+        "feedback": "The submitted response contains random characters or incoherent text. In a technical interview, answers must directly explain technical mechanisms and reasoning.",
+        "strengths": [],
+        "missingPoints": [
+          "A coherent technical response addressing the question was not submitted."
+        ],
+        "improvedAnswer": "I would focus on 'service-oriented' administration by simplifying bureaucratic processes, increasing transparency through digital tools, and fostering a culture of accountability within my team. By ensuring that the last person in the queue receives services without undue hardship, I would aim to restore public faith in the institutional integrity of the office."
+      }
+    ],
+    "dateTime": "2026-10-05T05:14:18.206Z",
+    "date": "2026-10-05T05:14:18.206Z",
+    "createdAt": "2026-10-05T05:14:18.206Z"
   }
 ]

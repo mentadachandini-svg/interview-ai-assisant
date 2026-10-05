@@ -25,5 +25,14 @@
     "preferredRole": "Software Engineer",
     "experienceLevel": "Beginner",
     "createdAt": "2026-09-30T14:24:10.486Z"
+  },
+  {
+    "_id": "user_1791177014798_2fbip",
+    "name": "hemalatha",
+    "email": "hemalatha@gmail.com",
+    "password": "$2a$10$jTo4pS.JGzxHBsrtAcIvIe3VV8Eq9Gwv8Jc5PFhyD4SAfPEz9kQt6",
+    "preferredRole": "Software Engineer",
+    "experienceLevel": "Beginner",
+    "createdAt": "2026-10-05T05:10:14.798Z"
   }
 ]
